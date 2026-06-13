@@ -1,0 +1,10 @@
+title       = "hn2"
+baseURL     = "https://hackernoon-cli.tamnd.com/"
+description = "Browse Hackernoon tech stories"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/hackernoon-cli"
